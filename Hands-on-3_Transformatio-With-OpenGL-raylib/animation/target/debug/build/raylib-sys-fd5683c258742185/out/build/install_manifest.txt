@@ -1,0 +1,7 @@
+/home/tezca/HCI/Hands-on-3_Transformatio-With-OpenGL-raylib/animation/target/debug/build/raylib-sys-fd5683c258742185/out/lib/libraylib.a
+/home/tezca/HCI/Hands-on-3_Transformatio-With-OpenGL-raylib/animation/target/debug/build/raylib-sys-fd5683c258742185/out/include/raylib.h
+/home/tezca/HCI/Hands-on-3_Transformatio-With-OpenGL-raylib/animation/target/debug/build/raylib-sys-fd5683c258742185/out/include/rlgl.h
+/home/tezca/HCI/Hands-on-3_Transformatio-With-OpenGL-raylib/animation/target/debug/build/raylib-sys-fd5683c258742185/out/include/raymath.h
+/home/tezca/HCI/Hands-on-3_Transformatio-With-OpenGL-raylib/animation/target/debug/build/raylib-sys-fd5683c258742185/out/lib/pkgconfig/raylib.pc
+/home/tezca/HCI/Hands-on-3_Transformatio-With-OpenGL-raylib/animation/target/debug/build/raylib-sys-fd5683c258742185/out/lib/cmake/raylib/raylib-config-version.cmake
+/home/tezca/HCI/Hands-on-3_Transformatio-With-OpenGL-raylib/animation/target/debug/build/raylib-sys-fd5683c258742185/out/lib/cmake/raylib/raylib-config.cmake

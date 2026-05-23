@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+a927e4512799c04b36bca11ab5f2ea8f CMakeFiles/uninstall
+ffbbc93374a16f1d2391f8e657f7d6ff raylib/external/glfw/src/CMakeFiles/update_mappings
